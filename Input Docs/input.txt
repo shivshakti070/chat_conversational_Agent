@@ -1,0 +1,171 @@
+Interaction 1
+channel - chatbot, interaction starttime - 2026-02-01 09:15:22.001, interaction endtime - 2026-02-01 09:17:45.123, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: i need a new debit card
+chatbot: okay, i can help with that. before i order a new card, i need to confirm: has your current card been lost, stolen, or is it just damaged or not working?
+customer: lost
+chatbot: sorry to hear that. ive locked your card to prevent any unauthorised use. would you like me to order a replacement now? please select an option:
+customer: yes
+chatbot: great, a new debit card will be sent to your registered home address within 3-5 working days. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time and i would be happy to help. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 2
+channel - webchat, interaction starttime - 2026-02-10 14:30:00.500, interaction endtime - 2026-02-10 14:35:20.880, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: what's my balance?
+chatbot: for security, i cant display account balances directly in this chat. you can check your balance quickly and securely in the mobile app or online banking. would you like me to help with something else? please select an option:
+customer: show me
+chatbot: to view your balance, please log in to your mobile app. the balance is shown on the main dashboard. was that helpful? please select an option:
+customer: yes
+chatbot: great! did i answer your question?
+customer: yes
+chatbot: okay, please come back any time and i would be happy to help. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 3
+channel - chatbot, interaction starttime - 2026-02-18 11:05:33.210, interaction endtime - 2026-02-18 11:08:15.456, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: forgot my online banking password
+chatbot: no problem. you can easily reset your password online. are you a: please select an option:
+customer: personal customer
+chatbot: have you registered for online banking before? please select an option:
+customer: yes
+chatbot: perfect. click the 'forgotten password' link on the login page and follow the instructions. a reset link will be sent to your registered mobile or email. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time and i would be happy to help. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 4
+channel - webchat, interaction starttime - 2026-02-25 16:45:12.007, interaction endtime - 2026-02-25 16:52:30.112, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: i want to open a savings account
+chatbot: okay, lets find the right savings account for you. are you looking to open this account as a: please select an option:
+customer: personal customer
+chatbot: you can view and apply for our range of savings accounts directly in online banking or the app. just log in and look for the 'products' or 'open an account' section. would you like me to pass you to a colleague who can discuss the options in more detail? please select an option:
+customer: handoff
+chatbot: just a moment... im connecting you with one of my colleagues who will get back to you as soon as possible. theyll be able to see the conversation so far.
+
+Interaction 5
+channel - chatbot, interaction starttime - 2026-03-02 08:20:45.980, interaction endtime - 2026-03-02 08:22:55.321, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: my card doesnt work
+chatbot: im sorry to hear that. first, lets check if your card is locked. i can see your main debit card is currently active. is the issue that a payment was declined? please select an option:
+customer: atm took it
+chatbot: oh dear. it sounds like your card may have been retained by the machine. youll need to order a replacement card. i can help with that. would you like me to order a new one now? please select an option:
+customer: yes
+chatbot: okay, a new card is on its way to your home address. in the meantime, you can use the mobile app for contactless payments. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 6
+channel - webchat, interaction starttime - 2026-03-08 13:55:00.000, interaction endtime - 2026-03-08 13:59:45.670, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: how do i set up a direct debit?
+chatbot: to set up a direct debit, youll need to provide the company you want to pay with your sort code and account number. you can find these in the app or on a statement. once youve given them your details, they will set it up. it usually takes 3-5 working days. was that helpful? please select an option:
+customer: what are my details?
+chatbot: for security, i cant share account details in this chat. you can view your sort code and account number securely in the mobile app or online banking. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 7
+channel - chatbot, interaction starttime - 2026-03-12 10:10:17.330, interaction endtime - 2026-03-12 10:13:02.540, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: traveling abroad
+chatbot: going somewhere nice? please let me know what you need help with regarding your trip: please select an option:
+customer: use my card
+chatbot: you can use your card abroad, but please let us know your travel dates so we can help ensure transactions aren't flagged as suspicious. you can do this in the mobile app under 'travel notifications'. was that helpful? please select an option:
+customer: yes
+chatbot: okay, please come back any time and i would be happy to help. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 8
+channel - webchat, interaction starttime - 2026-03-15 09:30:45.111, interaction endtime - 2026-03-15 09:35:10.220, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: i have a suspicious text message
+chatbot: please do not click any links or share any information. it's very important that you forward any suspicious texts to 7726. this helps us investigate. would you like me to block your card just in case? please select an option:
+customer: no
+chatbot: okay, but please stay vigilant. forward the text to 7726 and delete it. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time if you need further help. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 9
+channel - chatbot, interaction starttime - 2026-03-17 15:20:33.990, interaction endtime - 2026-03-17 15:22:48.777, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: find my nearest branch
+chatbot: i can help with that. to find your nearest branch, please enable location services, or i can send you a link to our branch locator tool. please select an option:
+customer: send link
+chatbot: great, i have sent the link to our branch locator to this chat. you can click it to find branches and ATMs near you. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time. prompt_survey
+chatbot: close
+customer: /close
+
+Interaction 10
+channel - webchat, interaction starttime - 2026-03-18 12:00:02.500, interaction endtime - 2026-03-18 12:05:30.888, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: i need a mortgage
+chatbot: okay, i can help with initial mortgage information. would you like to: please select an option:
+customer: speak to someone
+chatbot: id be happy to arrange that for you. our mortgage advisors are available Monday to Friday, 9-5. would you like me to schedule a callback for you? please select an option:
+customer: yes
+chatbot: authenticated - reason: in app customer fully authenticated. just a moment... i'm connecting you with one of my colleagues who will get back to you as soon as possible to arrange a mortgage appointment. they'll be able to see the conversation so far.
+
+interaction - 11, channel - chatbot, interaction starttime - 2026-01-05 16:30:51.110, interaction endtime - 2026-01-05 16:31:58.054, transcript -
+customer: /start
+chatbot: hi claire, im xyz your digital assistant, i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: how to change address
+chatbot: okay, would you like to change the address for your: please select an option:
+customer: personal & business
+chatbot: okay, let's start by updating your personal address. i can see you need help changing your address, you can do this via online banking, which is the fastest way. otherwise, i can pass you to a human colleague who can help. please select an option:
+customer: online banking
+chatbot: great, youll need to close this chat by clicking the 3 dots and end conversation, then login to online banking and start a new chat with me. type in change my address and ill help you get it updated. did i answer your question? please select an option:
+customer: yes
+chatbot: okay, please come back any time and i would be happy to help. prompt_survey
+chatbot: close
+customer: /close
+
+interaction - 12, channel - webchat, interaction starttime - 2026-01-15 06:31:21.432, interaction endtime - 2026-01-15 16:36:01.269, transcript -
+customer: /start
+chatbot: hi claire, im xyz, your digital assistant. i can help with all sorts of everyday banking queries. ask me a short, simple question, such as how do i order a new card? and ill be able to help.
+customer: change my address
+chatbot: okay, would you like to change the address for your: please select an option:
+customer: personal & business
+chatbot: okay, let's start by updating your personal address. i can see you need help changing your address, you can do this via online banking, which is the fastest way. otherwise, i can pass you to a human colleague who can help. please select an option:
+customer: manor house 16 sycamore tree haswell dh62ag
+chatbot: i'm sorry i didn't understand, please select an option below or rephrase your question. please select an option:
+customer: online banking
+chatbot: lets sort out your online banking access. are you a: please select an option:
+customer: personal customer
+chatbot: have you registered for online banking before? please select an option:
+customer: yes
+chatbot: if you've already registered for online banking, you need to re-register in order to gain access. you can do this by resetting your login details. click the link below to re-register. was that helpful? please select an option:
+customer: no
+chatbot: sorry that wasn't what you were looking for, ill have another go. please could you rephrase your query in a short simple sentence and ill try again.
+customer: change address
+chatbot: okay, would you like to change the address for your: please select an option:
+customer: personal & business
+chatbot: okay, let's start by updating your personal address. i can see you need help changing your address, you can do this via online banking, which is the fastest way. otherwise, i can pass you to a human colleague who can help. please select an option:
+customer: handoff
+chatbot: authenticated - reason: in app customer fully authenticated. search ela for id&v just a moment... i'm connecting you with one of my colleagues who will get back to you as soon as possible. they'll be able to see the
